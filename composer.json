@@ -1,0 +1,16 @@
+{
+    "name": "mgordillo/test-block",
+    "description": "Guten block test",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marco Gordillo",
+            "email": "6589245+marcopgordillo@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
